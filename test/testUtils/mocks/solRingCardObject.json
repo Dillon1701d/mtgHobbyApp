@@ -1,0 +1,150 @@
+[
+    {
+        "artist": "Mark Tedin",
+        "artistIds": [
+            "9ee9a9cc-c09e-486f-918b-69f80cbc4188"
+        ],
+        "availability": [
+            "paper"
+        ],
+        "boosterTypes": [
+            "default"
+        ],
+        "borderColor": "white",
+        "colorIdentity": [
+        ],
+        "colors": [
+        ],
+        "convertedManaCost": 1.0,
+        "edhrecRank": 1,
+        "edhrecSaltiness": 1.25,
+        "finishes": [
+            "nonfoil"
+        ],
+        "foreignData": [
+        ],
+        "frameVersion": "1993",
+        "hasFoil": false,
+        "hasNonFoil": true,
+        "identifiers": {
+            "cardKingdomId": "13235",
+            "cardsphereId": "45841",
+            "deckboxId": "960",
+            "mcmId": "5169",
+            "mtgjsonV4Id": "26dbb251-4d5c-5aa9-96b3-5a09ab5aa83c",
+            "multiverseId": "637",
+            "scryfallCardBackId": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "scryfallId": "e07f656c-97b5-4147-821a-edbb49f34e19",
+            "scryfallIllustrationId": "54462260-8d64-4ec2-bac7-f2d469f187f3",
+            "scryfallOracleId": "6ad8011d-3471-4369-9d68-b264cc027487",
+            "tcgplayerProductId": "9210"
+        },
+        "isReprint": true,
+        "language": "English",
+        "layout": "normal",
+        "legalities": {
+            "commander": "Legal",
+            "duel": "Banned",
+            "legacy": "Banned",
+            "oathbreaker": "Banned",
+            "oldschool": "Restricted",
+            "predh": "Legal",
+            "vintage": "Restricted"
+        },
+        "manaCost": "{1}",
+        "manaValue": 1.0,
+        "name": "Sol Ring",
+        "number": "270",
+        "originalText": "Add 2 colorless mana to your mana pool. Tapping this artifact can be played as an interrupt.",
+        "originalType": "Mono Artifact",
+        "printings": [
+            "2ED",
+            "30A",
+            "3ED",
+            "40K",
+            "AFC",
+            "BLC",
+            "BRC",
+            "C13",
+            "C14",
+            "C15",
+            "C16",
+            "C17",
+            "C18",
+            "C19",
+            "C20",
+            "C21",
+            "CC1",
+            "CC2",
+            "CED",
+            "CEI",
+            "CLB",
+            "CM2",
+            "CMA",
+            "CMD",
+            "CMM",
+            "CMR",
+            "DMC",
+            "DRC",
+            "DSC",
+            "FBB",
+            "FDC",
+            "G05",
+            "KHC",
+            "LCC",
+            "LEA",
+            "LEB",
+            "LTC",
+            "M3C",
+            "MB2",
+            "ME4",
+            "MIC",
+            "MKC",
+            "MOC",
+            "MPS",
+            "NCC",
+            "NEC",
+            "ONC",
+            "OTC",
+            "PF19",
+            "PFDN",
+            "PIP",
+            "PLG22",
+            "PLST",
+            "PRM",
+            "PZ1",
+            "SCD",
+            "SLD",
+            "SUM",
+            "TDC",
+            "V10",
+            "VMA",
+            "VOC",
+            "WHO",
+            "WOC",
+            "ZNC"
+        ],
+        "purchaseUrls": {
+            "cardKingdom": "https://mtgjson.com/links/57da38ddc44d2138",
+            "tcgplayer": "https://mtgjson.com/links/bc296da3109a6826"
+        },
+        "rarity": "uncommon",
+        "setCode": "2ED",
+        "sourceProducts": {
+            "nonfoil": [
+                "3f7ddeba-52f5-5f8f-a013-309403c8a870",
+                "88f78f27-1c8e-5bec-8c78-e2a75ff2d91f"
+            ]
+        },
+        "subtypes": [
+        ],
+        "supertypes": [
+        ],
+        "text": "{T}: Add {C}{C}.",
+        "type": "Artifact",
+        "types": [
+            "Artifact"
+        ],
+        "uuid": "fe19ba78-b922-5ce5-8ad9-276a3cfabf57"
+    }
+]

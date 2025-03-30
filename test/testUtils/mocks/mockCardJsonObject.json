@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Sol Ring",
+        "type_line": "Artifact",
+        "mana_cost": "{1}",
+        "oracle_text": "{T}: Add {C}{C}.",
+        "image_uris": {
+            "small": "https://api.scryfall.com/cards/sol-ring-small.jpg",
+            "normal": "https://api.scryfall.com/cards/sol-ring-normal.jpg",
+            "large": "https://api.scryfall.com/cards/sol-ring-large.jpg",
+            "art_crop": "https://api.scryfall.com/cards/sol-ring-art.jpg"
+        },
+        "power": null,
+        "toughness": null,
+        "colors": [],
+        "color_identity": [],
+        "rarity": "Uncommon",
+        "set": "CMD",
+        "set_name": "Commander",
+        "prices": {
+            "usd": "2.99",
+            "eur": "2.50",
+            "tix": "0.02"
+        },
+        "legalities": {
+            "standard": "Not Legal",
+            "pioneer": "Not Legal",
+            "modern": "Not Legal",
+            "legacy": "Banned",
+            "vintage": "Restricted",
+            "commander": "Legal"
+        }
+    }
+]
